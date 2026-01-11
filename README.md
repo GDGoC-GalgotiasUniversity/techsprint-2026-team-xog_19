@@ -78,7 +78,7 @@ Progress tracking, streaks, and rewards keep users engaged and consistent withou
 ## 🔗 Links & Demo
 - **🌐 Live Site:** [https://techsprint-myfork-1zq84awcr-namantiwaris-projects.vercel.app/](https://your-app.vercel.app)
 - **📂 GitHub Repo:** [https://github.com/GDGoC-GalgotiasUniversity/techsprint-2026-team-xog_19.git]
-- **📹 Video Demo:** [Link to Video]
+- **📹 Video Demo:** [https://drive.google.com/file/d/1m2s6Iy6UfDtDpZXaDq_iHX6n8FDO7teO/view?usp=drive_link]
 
 > **Testing Credentials**
 > * **User:** `user@demo.com`
