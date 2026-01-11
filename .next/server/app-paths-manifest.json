@@ -1,1 +1,17 @@
-{}
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/api/analytics/route": "app/api/analytics/route.js",
+  "/api/calendar/settings/route": "app/api/calendar/settings/route.js",
+  "/api/google-calendar-config/route": "app/api/google-calendar-config/route.js",
+  "/api/google-calendar/route": "app/api/google-calendar/route.js",
+  "/api/tasks/route": "app/api/tasks/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/schedule/page": "app/schedule/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/tasks/new/page": "app/tasks/new/page.js"
+}
