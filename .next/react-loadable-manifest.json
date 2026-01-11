@@ -1,0 +1,40 @@
+{
+  "app/login/page.tsx -> firebase/auth": {
+    "id": "app/login/page.tsx -> firebase/auth",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_firebase_12_7_0_node_modules_firebase_auth_dist_esm_inde-fc381a.js"
+    ]
+  },
+  "app/page.tsx -> @/components/home-auth-check": {
+    "id": "app/page.tsx -> @/components/home-auth-check",
+    "files": [
+      "static/chunks/_app-pages-browser_components_home-auth-check_tsx.js"
+    ]
+  },
+  "hooks/use-auth.tsx -> @/lib/firebase": {
+    "id": "hooks/use-auth.tsx -> @/lib/firebase",
+    "files": []
+  },
+  "hooks/use-auth.tsx -> firebase/firestore": {
+    "id": "hooks/use-auth.tsx -> firebase/firestore",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_firebase_12_7_0_node_modules_firebase_firestore_dist_esm-302564.js"
+    ]
+  },
+  "lib/firebase.ts -> firebase/app": {
+    "id": "lib/firebase.ts -> firebase/app",
+    "files": []
+  },
+  "lib/firebase.ts -> firebase/auth": {
+    "id": "lib/firebase.ts -> firebase/auth",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_firebase_12_7_0_node_modules_firebase_auth_dist_esm_inde-fc381a.js"
+    ]
+  },
+  "lib/firebase.ts -> firebase/firestore": {
+    "id": "lib/firebase.ts -> firebase/firestore",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_firebase_12_7_0_node_modules_firebase_firestore_dist_esm-302564.js"
+    ]
+  }
+}

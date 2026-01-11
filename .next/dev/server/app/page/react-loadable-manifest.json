@@ -1,0 +1,9 @@
+{
+  "[project]/components/home-auth-check.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/home-auth-check.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/_ad6836d6._.js",
+      "static/chunks/components_home-auth-check_tsx_339e8fbd._.js"
+    ]
+  }
+}

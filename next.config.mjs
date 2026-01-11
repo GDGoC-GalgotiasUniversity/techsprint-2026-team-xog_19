@@ -5,9 +5,6 @@ const nextConfig = {
     NEXT_PUBLIC_USE_LOCAL_TASKS:
       process.env.NEXT_PUBLIC_USE_LOCAL_TASKS || "false",
   },
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
   typescript: {
     ignoreBuildErrors: true,
   },
